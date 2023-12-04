@@ -1,0 +1,7 @@
+
+ - ending stream on app will end stream on youtube after some time
+
+- you have to start stream first on youtube then on app
+- stream key remain the same for the channell
+
+
